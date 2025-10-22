@@ -14,7 +14,6 @@ An AI-powered application to help students solve their NCERT textbook doubts usi
 
 ### Prerequisites
 - Python 3.8+
-- Node.js 14+
 - Tesseract OCR (for image text extraction)
 
 ### Backend Setup
